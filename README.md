@@ -1,2 +1,2 @@
 # hello-world
-First attempt
+Geefthym's first attempt
